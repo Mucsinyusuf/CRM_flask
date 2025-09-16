@@ -1,0 +1,10 @@
+Flask>=2.2
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-JWT-Extended
+python-dotenv
+Flask-Mail
+Flask-Marshmallow
+marshmallow
+Flask-Cors
+twilio
